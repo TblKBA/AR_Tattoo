@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_tryon"
+            android:icon="@drawable/tryon"
+            android:title="Примерить"/>
+
+    <item
+            android:id="@+id/navigation_tattoos"
+            android:icon="@drawable/tattoos"
+            android:title="Макеты"/>
+
+    <item
+            android:id="@+id/navigation_mytattoo"
+            android:icon="@drawable/mytattoo"
+            android:title="Мои тату"/>
+
+    <item
+            android:id="@+id/navigation_ar"
+            android:icon="@drawable/ar2"
+            android:title="AR режим"/>
+
+    <item
+            android:id="@+id/navigation_profile"
+            android:icon="@drawable/profile"
+            android:title="Профиль"/>
+
+</menu>
